@@ -1,0 +1,9 @@
+1. Install Node JS (https://nodejs.org/en/download/)
+2. Create directory for project, change to directory location
+3. Init Node JS Project (npm init)
+4. Install dependency (npm i express mongoose body-parser bcryptjs validation config cors)
+5. [Optional] Install mongodb native driver (npm install mongodb --save)
+6. [Optional] Instal nodemon for monitoring any changes in source (npm i -D nodemon)
+7. Add start script (node app.js) and nodemon script (nodemon app.js)
+8. install dependency (npm install)
+9. Create MongoDB Atlas (https://www.mongodb.com/cloud/atlas) -- MongoDB Free Cloud
